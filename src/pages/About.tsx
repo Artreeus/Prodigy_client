@@ -79,10 +79,10 @@ const About: React.FC = () => {
 				For any inquiries or feedback, please feel free to reach out to
 				us at
 				<a
-					href="mailto:nazmulnhb@gmail.com"
+					href="mailto:ratulhasan048@gmail.com"
 					className="text-blue-500 hover:border-b hover:border-prodigy-primary hover:text-prodigy-primary transition-all duration-300 ml-2"
 				>
-					nazmulnhb@gmail.com
+					ratulhasan048@gmail.com
 				</a>
 				.
 			</p>
